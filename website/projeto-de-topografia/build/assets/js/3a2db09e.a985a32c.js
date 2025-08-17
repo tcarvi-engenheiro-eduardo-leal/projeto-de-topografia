@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojeto_de_topografia=self.webpackChunkprojeto_de_topografia||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"Hello","permalink":"/blog/tags/hello","description":"Hello tag description","count":1}]}')}}]);

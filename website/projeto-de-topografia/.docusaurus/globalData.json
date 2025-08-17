@@ -1,0 +1,38 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "conceitos-gerais/conceitos-gerais",
+          "docs": [
+            {
+              "id": "conceitos-gerais/conceitos-gerais",
+              "path": "/docs/conceitos-gerais/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/conceitos-gerais",
+              "path": "/docs/category/conceitos-gerais",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/conceitos-gerais",
+                "label": "Conceitos Gerais"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

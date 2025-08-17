@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojeto_de_topografia=self.webpackChunkprojeto_de_topografia||[]).push([[647],{3713:(e,r,a)=>{a.r(r),a.d(r,{default:()=>d});a(6540);var o=a(4164),s=a(9872),t=a(6568),p=a(2831),u=a(1771),c=a(4848);function d(e){return(0,c.jsx)(t.e3,{className:(0,o.A)(s.G.wrapper.docsPages),children:(0,c.jsx)(u.A,{children:(0,p.v)(e.route.routes)})})}}}]);

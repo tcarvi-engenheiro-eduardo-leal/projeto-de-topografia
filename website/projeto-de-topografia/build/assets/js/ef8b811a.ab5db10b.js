@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojeto_de_topografia=self.webpackChunkprojeto_de_topografia||[]).push([[947],{6600:t=>{t.exports=JSON.parse('{"authors":[{"name":"TCARVI","title":"Mantenedor","url":"https://github.com/tcarvi","imageURL":"https://github.com/tcarvi.png","key":"tcarvi","page":null,"count":1}]}')}}]);

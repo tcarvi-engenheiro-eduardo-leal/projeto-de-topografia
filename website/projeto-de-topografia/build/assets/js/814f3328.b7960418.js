@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojeto_de_topografia=self.webpackChunkprojeto_de_topografia||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/blog/first-blog-post","unlisted":false,"date":"2024-01-31T00:00:00.000Z"}]}')}}]);

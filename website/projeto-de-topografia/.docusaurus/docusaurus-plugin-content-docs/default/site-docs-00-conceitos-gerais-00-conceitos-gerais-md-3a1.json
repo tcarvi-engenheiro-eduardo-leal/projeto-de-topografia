@@ -1,0 +1,21 @@
+{
+  "id": "conceitos-gerais/conceitos-gerais",
+  "title": "Conceitos Gerais",
+  "description": "",
+  "source": "@site/docs/00-conceitos-gerais/00-conceitos-gerais.md",
+  "sourceDirName": "00-conceitos-gerais",
+  "slug": "/conceitos-gerais/",
+  "permalink": "/docs/conceitos-gerais/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-topografia/tree/main/docs/00-conceitos-gerais/00-conceitos-gerais.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conceitos Gerais",
+    "permalink": "/docs/category/conceitos-gerais"
+  }
+}
